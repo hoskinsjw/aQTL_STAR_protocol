@@ -1,0 +1,8 @@
+[1] "Reading in data"
+[1] "Splitting samples into training and test sets"
+[1] "Plot phenotype distributions for training and test sets. If concerning difference are observed, consider either re-running this analysis with a different sampling seed number (as a 5th argument), or performing outlier sample removal prior to re-running the analysis."
+[1] "Identifying the regulators whose activities are most significantly associated with the phenotype"
+[1] "1574 regulators associated with phenotype with Bonferroni-adjusted P< 0.05"
+[1] "Running random forest cross-validation analyses across different feature counts with 12 different sampling seeds"
+[1] "Saving workspace that will be used in the final master regulator (MR) analysis"
+[1] "Random forest cross-validation analysis is complete. Look at the plot of mean cross-validation error across feature counts to determine how many features are needed to minimize prediction error while keeping the feature count as low as possible. This feature count will be used in the following master regulator analysis to pick out that number of putative master regulators (MRs) for your phenotype of interest."

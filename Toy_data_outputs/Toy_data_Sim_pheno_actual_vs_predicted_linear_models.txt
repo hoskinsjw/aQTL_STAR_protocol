@@ -1,0 +1,14 @@
+Training set linear model for actual~predicted Sim_pheno 
+                         Estimate Std. Error    t value     Pr(>|t|)
+(Intercept)            0.04694073 0.37104280  0.1265103 8.994100e-01
+final_rndFor$predicted 0.99233992 0.05490502 18.0737547 2.263754e-50
+
+adjusted r-squared = 0.511513675467042 
+
+
+Test set linear model for actual~predicted Sim_pheno 
+                             Estimate Std. Error   t value     Pr(>|t|)
+(Intercept)                 0.2898473 0.60956950 0.4754952 6.352260e-01
+final_rndFor$test$predicted 0.9434437 0.09815218 9.6120511 7.032013e-17
+
+adjusted r-squared = 0.40910919140101 
